@@ -1,6 +1,6 @@
 from time import sleep
 
-entrada = input('Pressione ENTER tecla para CRONOMETRAR\n')
+entrada = input('Pressione ENTER para CRONOMETRAR\n')
 cont = 1
 
 while True:
